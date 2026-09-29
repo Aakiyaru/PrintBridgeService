@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZplPrintBridgeService", "..\WindowsService1\ZplPrintBridgeService.csproj", "{7C4AB537-9503-43E6-AC12-FA1B8FE723B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4AB537-9503-43E6-AC12-FA1B8FE723B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4AB537-9503-43E6-AC12-FA1B8FE723B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AB537-9503-43E6-AC12-FA1B8FE723B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4AB537-9503-43E6-AC12-FA1B8FE723B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEF0B6A-2FE2-4651-B666-5011A20DEED5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfsrv:8080/tfs/it_project
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\WindowsService1\\ZplPrintBridgeService.csproj
+		SccProjectName1 = ../WindowsService1
+		SccLocalPath1 = ..\\WindowsService1
+	EndGlobalSection
+EndGlobal
